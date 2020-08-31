@@ -1,5 +1,3 @@
-# react-state-management-using-hooks
-
 # Commands
 
 ## for installing dependencies
