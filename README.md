@@ -1,8 +1,9 @@
 # react-state-management-using-hooks
-Commands
 
-for installing dependencies
+# Commands
+
+## for installing dependencies
 npm install
 
-for starting server
+## for starting server
 npm start
